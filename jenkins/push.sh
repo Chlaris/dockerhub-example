@@ -1,2 +1,2 @@
 #!/bin/bash
-docker push darinpope/dp-alpine:latest
+docker push chlbutler/dp-alpine:latest
